@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|f:\\second course\\oop\\laboratory3\\laboratory3c#\\laboratory3_2\\laboratory3_2\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|solutionrelative:laboratory3_2\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|f:\\second course\\oop\\laboratory3\\laboratory3c#\\laboratory3_2\\laboratory3_2\\laboratory3_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|solutionrelative:laboratory3_2\\laboratory3_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|f:\\second course\\oop\\laboratory3\\laboratory3c#\\laboratory3_2\\laboratory3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|solutionrelative:laboratory3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|f:\\second course\\oop\\laboratory3\\laboratory3c#\\laboratory3_2\\laboratory3_2\\laboratory3_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{56EECEAB-A18B-4684-ACDE-9B8A9FAB24E1}|Laboratory3_2\\Laboratory3_2.csproj|solutionrelative:laboratory3_2\\laboratory3_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laboratory3_2",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Laboratory3_2.csproj",
+              "RelativeDocumentMoniker": "Laboratory3_2\\Laboratory3_2.csproj",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Laboratory3_2.csproj",
+              "RelativeToolTip": "Laboratory3_2\\Laboratory3_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T18:23:23.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laboratory3_2.csproj",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Laboratory3_2.csproj",
+              "RelativeDocumentMoniker": "Laboratory3_2\\Laboratory3_2.csproj",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Laboratory3_2.csproj",
+              "RelativeToolTip": "Laboratory3_2\\Laboratory3_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T18:22:56.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Class2.cs",
+              "RelativeDocumentMoniker": "Laboratory3_2\\Class2.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Class2.cs",
+              "RelativeToolTip": "Laboratory3_2\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:22:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratory3_2\\Program.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory3\\Laboratory3C#\\Laboratory3_2\\Laboratory3_2\\Program.cs",
+              "RelativeToolTip": "Laboratory3_2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:52:22.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
